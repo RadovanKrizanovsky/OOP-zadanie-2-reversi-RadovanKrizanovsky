@@ -1,3 +1,12 @@
+
+
+<table align="center">
+  <tr>
+    <th>Entire assignment is repost from my other profile</th>
+  </tr>
+</table>
+
+
 # Zadanie 2 - Reversi
 B-OOP 2022
 
